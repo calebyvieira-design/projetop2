@@ -1,0 +1,45 @@
+RELATÓRIO GERENCIAL - TECHVENDAS
+Análise de vendas de janeiro a junho de 2026
+Arquivo analisado: dados/vendas.csv
+==============================================================================
+1. INDICADORES GERAIS
+Registros de venda: 24
+Unidades vendidas: 300
+Receita bruta: R$ 181480,00
+Lucro bruto estimado: R$ 61518,00
+Margem bruta: 33,9%
+Ticket médio por registro: R$ 7561,67
+
+2. RANKING DE PRODUTOS POR RECEITA
+Produto                     Unid.           Receita      Margem
+ 1. Notebook Pro 14            21       R$ 88200,00       25,0%
+ 2. Monitor 24                 49       R$ 48020,00       36,7%
+ 3. Webcam Full HD             44       R$ 13640,00       43,5%
+ 4. Headset Gamer              54       R$ 12420,00       47,8%
+ 5. Teclado mecanico           36       R$ 10080,00       48,2%
+ 6. Mouse sem fio              96        R$ 9120,00       55,8%
+
+3. DESEMPENHO POR REGIÃO
+Região                 Unid.           Receita      Margem
+Sudeste                   66       R$ 74240,00       30,1%
+Nordeste                  80       R$ 47060,00       35,4%
+Sul                       72       R$ 36595,00       33,0%
+Centro-Oeste              82       R$ 23585,00       44,1%
+
+4. EVOLUÇÃO MENSAL
+Mês            Unid.           Receita             Lucro
+2026-01           30       R$ 16830,00        R$ 5319,00
+2026-02           45       R$ 20570,00        R$ 7326,00
+2026-03           37       R$ 34040,00       R$ 11130,00
+2026-04           57       R$ 35585,00       R$ 11545,00
+2026-05           44       R$ 31560,00       R$ 10935,00
+2026-06           87       R$ 42895,00       R$ 15263,00
+
+5. CONCLUSÕES
+• Notebook Pro 14 lidera a receita com R$ 88200,00, enquanto Mouse sem fio apresenta o maior volume, com 96 unidades vendidas.
+• A região Sudeste é a principal fonte de receita (R$ 74240,00), enquanto a margem geral alcançou 33,9%.
+• A receita variou 154,9% entre o primeiro e o último mês; 2026-06 foi o melhor mês e 2026-01 o menor.
+
+6. RECOMENDAÇÃO DE NEGÓCIO
+Priorizar estoque e campanhas de Notebook Pro 14 na região Sudeste, usando acessórios de maior giro como oferta complementar. Acompanhar a margem para evitar que descontos reduzam a rentabilidade, repetindo a análise após a próxima alteração no CSV.
+==============================================================================

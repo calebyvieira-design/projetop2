@@ -1,0 +1,25 @@
+data,produto,categoria,regiao,quantidade,preco_unitario,custo_unitario
+2026-01-05,Notebook Pro 14,Computadores,Sudeste,3,4200.00,3150.00
+2026-01-12,Mouse sem fio,Perifericos,Sul,18,95.00,42.00
+2026-01-20,Teclado mecanico,Perifericos,Sudeste,9,280.00,145.00
+2026-02-03,Monitor 24,Monitores,Nordeste,7,980.00,620.00
+2026-02-10,Notebook Pro 14,Computadores,Sul,2,4200.00,3150.00
+2026-02-18,Headset Gamer,Perifericos,Centro-Oeste,14,230.00,120.00
+2026-02-26,Mouse sem fio,Perifericos,Nordeste,22,95.00,42.00
+2026-03-04,Monitor 24,Monitores,Sudeste,11,980.00,620.00
+2026-03-11,Webcam Full HD,Perifericos,Sul,10,310.00,175.00
+2026-03-19,Notebook Pro 14,Computadores,Nordeste,4,4200.00,3150.00
+2026-03-25,Teclado mecanico,Perifericos,Centro-Oeste,12,280.00,145.00
+2026-04-02,Notebook Pro 14,Computadores,Sudeste,5,4200.00,3150.00
+2026-04-09,Monitor 24,Monitores,Sul,8,980.00,620.00
+2026-04-16,Mouse sem fio,Perifericos,Centro-Oeste,25,95.00,42.00
+2026-04-24,Headset Gamer,Perifericos,Nordeste,19,230.00,120.00
+2026-05-03,Webcam Full HD,Perifericos,Sudeste,16,310.00,175.00
+2026-05-10,Notebook Pro 14,Computadores,Sul,3,4200.00,3150.00
+2026-05-18,Monitor 24,Monitores,Centro-Oeste,10,980.00,620.00
+2026-05-26,Teclado mecanico,Perifericos,Nordeste,15,280.00,145.00
+2026-06-04,Notebook Pro 14,Computadores,Sudeste,4,4200.00,3150.00
+2026-06-11,Mouse sem fio,Perifericos,Sul,31,95.00,42.00
+2026-06-19,Headset Gamer,Perifericos,Centro-Oeste,21,230.00,120.00
+2026-06-24,Monitor 24,Monitores,Nordeste,13,980.00,620.00
+2026-06-29,Webcam Full HD,Perifericos,Sudeste,18,310.00,175.00
